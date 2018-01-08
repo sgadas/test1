@@ -1,4 +1,5 @@
-this is 2nd file:wq
-Srinivas G added his comments.
+this is srinivas gadas	comment
+
+2nd line
 
 

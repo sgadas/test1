@@ -1,5 +1,3 @@
-This is SQl1
-The comments was added by srinivas g.
-The SQL1 file.
-
- 
+this is srinivas gadas comment on sql1
+>>>>>>> a0c4719de33b9d4b02f11886e8a9120b725cbde8
+Updated by srinivas g and merged.
