@@ -1,1 +1,5 @@
-Thi sis SQl 2 
+This is SQl1
+The comments was added by srinivas g.
+The SQL1 file.
+
+ 
